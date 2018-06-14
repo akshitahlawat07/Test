@@ -1,0 +1,13 @@
+OS:Microsoft Windows  10  64 Bit 
+CPU:Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz
+Memory:4.00 GB
+Color:32Bit
+OpenGL:Intel(R) HD Graphics 520
+	4.4.0 - Build 21.20.16.4550
+Market:D:\Technica\obb\TxGameAssistant\AppMarket
+	2.0.5185.123
+Emulator:D:\Technica\obb\TxGameAssistant\UI
+	2.0.5197.123
+VDI:Unknown
+	Unknown
+SD:D:\Temp\TxGameDownload\MobileGamePCShared
